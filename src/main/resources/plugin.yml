@@ -1,0 +1,11 @@
+name: Teleporter
+version: ${project.version}
+main: pro.freeserver.plugin.alphakun.teleporter.Teleporter
+api-version: 1.16
+authors: [ Alphakun ]
+description: コマンドを実行して特定の場所にテレポートするプラグインです
+commands:
+  kentikutp:
+    description: 建築場所にTPします
+  setpoint:
+    description: 建築場所を設定します
